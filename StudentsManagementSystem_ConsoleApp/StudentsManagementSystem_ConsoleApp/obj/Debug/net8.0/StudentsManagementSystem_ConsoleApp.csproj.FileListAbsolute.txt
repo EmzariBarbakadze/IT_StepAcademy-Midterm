@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\StudentsManagementSystem_ConsoleApp\StudentsManagementSystem_ConsoleApp\bin\Debug\net8.0\StudentsManagementSystem_ConsoleApp.exe
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\StudentsManagementSystem_ConsoleApp\StudentsManagementSystem_ConsoleApp\bin\Debug\net8.0\StudentsManagementSystem_ConsoleApp.deps.json
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\StudentsManagementSystem_ConsoleApp\StudentsManagementSystem_ConsoleApp\bin\Debug\net8.0\StudentsManagementSystem_ConsoleApp.runtimeconfig.json
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\StudentsManagementSystem_ConsoleApp\StudentsManagementSystem_ConsoleApp\bin\Debug\net8.0\StudentsManagementSystem_ConsoleApp.dll
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\StudentsManagementSystem_ConsoleApp\StudentsManagementSystem_ConsoleApp\bin\Debug\net8.0\StudentsManagementSystem_ConsoleApp.pdb
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\StudentsManagementSystem_ConsoleApp\StudentsManagementSystem_ConsoleApp\obj\Debug\net8.0\StudentsManagementSystem_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\StudentsManagementSystem_ConsoleApp\StudentsManagementSystem_ConsoleApp\obj\Debug\net8.0\StudentsManagementSystem_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\StudentsManagementSystem_ConsoleApp\StudentsManagementSystem_ConsoleApp\obj\Debug\net8.0\StudentsManagementSystem_ConsoleApp.AssemblyInfo.cs
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\StudentsManagementSystem_ConsoleApp\StudentsManagementSystem_ConsoleApp\obj\Debug\net8.0\StudentsManagementSystem_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\StudentsManagementSystem_ConsoleApp\StudentsManagementSystem_ConsoleApp\obj\Debug\net8.0\StudentsManagementSystem_ConsoleApp.dll
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\StudentsManagementSystem_ConsoleApp\StudentsManagementSystem_ConsoleApp\obj\Debug\net8.0\refint\StudentsManagementSystem_ConsoleApp.dll
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\StudentsManagementSystem_ConsoleApp\StudentsManagementSystem_ConsoleApp\obj\Debug\net8.0\StudentsManagementSystem_ConsoleApp.pdb
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\StudentsManagementSystem_ConsoleApp\StudentsManagementSystem_ConsoleApp\obj\Debug\net8.0\StudentsManagementSystem_ConsoleApp.genruntimeconfig.cache
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\StudentsManagementSystem_ConsoleApp\StudentsManagementSystem_ConsoleApp\obj\Debug\net8.0\ref\StudentsManagementSystem_ConsoleApp.dll

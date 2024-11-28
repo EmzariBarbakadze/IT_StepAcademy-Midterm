@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\ATM_MachineSimulator_ConsoleApp\ATM_MachineSimulator_ConsoleApp\bin\Debug\net8.0\ATM_MachineSimulator_ConsoleApp.exe
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\ATM_MachineSimulator_ConsoleApp\ATM_MachineSimulator_ConsoleApp\bin\Debug\net8.0\ATM_MachineSimulator_ConsoleApp.deps.json
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\ATM_MachineSimulator_ConsoleApp\ATM_MachineSimulator_ConsoleApp\bin\Debug\net8.0\ATM_MachineSimulator_ConsoleApp.runtimeconfig.json
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\ATM_MachineSimulator_ConsoleApp\ATM_MachineSimulator_ConsoleApp\bin\Debug\net8.0\ATM_MachineSimulator_ConsoleApp.dll
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\ATM_MachineSimulator_ConsoleApp\ATM_MachineSimulator_ConsoleApp\bin\Debug\net8.0\ATM_MachineSimulator_ConsoleApp.pdb
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\ATM_MachineSimulator_ConsoleApp\ATM_MachineSimulator_ConsoleApp\obj\Debug\net8.0\ATM_MachineSimulator_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\ATM_MachineSimulator_ConsoleApp\ATM_MachineSimulator_ConsoleApp\obj\Debug\net8.0\ATM_MachineSimulator_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\ATM_MachineSimulator_ConsoleApp\ATM_MachineSimulator_ConsoleApp\obj\Debug\net8.0\ATM_MachineSimulator_ConsoleApp.AssemblyInfo.cs
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\ATM_MachineSimulator_ConsoleApp\ATM_MachineSimulator_ConsoleApp\obj\Debug\net8.0\ATM_MachineSimulator_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\ATM_MachineSimulator_ConsoleApp\ATM_MachineSimulator_ConsoleApp\obj\Debug\net8.0\ATM_MachineSimulator_ConsoleApp.dll
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\ATM_MachineSimulator_ConsoleApp\ATM_MachineSimulator_ConsoleApp\obj\Debug\net8.0\refint\ATM_MachineSimulator_ConsoleApp.dll
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\ATM_MachineSimulator_ConsoleApp\ATM_MachineSimulator_ConsoleApp\obj\Debug\net8.0\ATM_MachineSimulator_ConsoleApp.pdb
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\ATM_MachineSimulator_ConsoleApp\ATM_MachineSimulator_ConsoleApp\obj\Debug\net8.0\ATM_MachineSimulator_ConsoleApp.genruntimeconfig.cache
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\ATM_MachineSimulator_ConsoleApp\ATM_MachineSimulator_ConsoleApp\obj\Debug\net8.0\ref\ATM_MachineSimulator_ConsoleApp.dll

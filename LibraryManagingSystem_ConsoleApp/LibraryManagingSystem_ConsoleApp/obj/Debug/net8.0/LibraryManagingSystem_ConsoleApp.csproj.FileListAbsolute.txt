@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\LibraryManagingSystem_ConsoleApp\LibraryManagingSystem_ConsoleApp\bin\Debug\net8.0\LibraryManagingSystem_ConsoleApp.exe
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\LibraryManagingSystem_ConsoleApp\LibraryManagingSystem_ConsoleApp\bin\Debug\net8.0\LibraryManagingSystem_ConsoleApp.deps.json
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\LibraryManagingSystem_ConsoleApp\LibraryManagingSystem_ConsoleApp\bin\Debug\net8.0\LibraryManagingSystem_ConsoleApp.runtimeconfig.json
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\LibraryManagingSystem_ConsoleApp\LibraryManagingSystem_ConsoleApp\bin\Debug\net8.0\LibraryManagingSystem_ConsoleApp.dll
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\LibraryManagingSystem_ConsoleApp\LibraryManagingSystem_ConsoleApp\bin\Debug\net8.0\LibraryManagingSystem_ConsoleApp.pdb
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\LibraryManagingSystem_ConsoleApp\LibraryManagingSystem_ConsoleApp\obj\Debug\net8.0\LibraryManagingSystem_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\LibraryManagingSystem_ConsoleApp\LibraryManagingSystem_ConsoleApp\obj\Debug\net8.0\LibraryManagingSystem_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\LibraryManagingSystem_ConsoleApp\LibraryManagingSystem_ConsoleApp\obj\Debug\net8.0\LibraryManagingSystem_ConsoleApp.AssemblyInfo.cs
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\LibraryManagingSystem_ConsoleApp\LibraryManagingSystem_ConsoleApp\obj\Debug\net8.0\LibraryManagingSystem_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\LibraryManagingSystem_ConsoleApp\LibraryManagingSystem_ConsoleApp\obj\Debug\net8.0\LibraryManagingSystem_ConsoleApp.dll
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\LibraryManagingSystem_ConsoleApp\LibraryManagingSystem_ConsoleApp\obj\Debug\net8.0\refint\LibraryManagingSystem_ConsoleApp.dll
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\LibraryManagingSystem_ConsoleApp\LibraryManagingSystem_ConsoleApp\obj\Debug\net8.0\LibraryManagingSystem_ConsoleApp.pdb
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\LibraryManagingSystem_ConsoleApp\LibraryManagingSystem_ConsoleApp\obj\Debug\net8.0\LibraryManagingSystem_ConsoleApp.genruntimeconfig.cache
+C:\Users\User\Desktop\IT Step Academy Midterm Projects\LibraryManagingSystem_ConsoleApp\LibraryManagingSystem_ConsoleApp\obj\Debug\net8.0\ref\LibraryManagingSystem_ConsoleApp.dll
